@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name = 'red-theme'
-  s.version = '0.0.1'
+  s.version = '0.0.2'
   s.summary = 'Pipeline red theme'
   s.description = 'All the red'
   s.files = `git ls-files`.split("\n")

@@ -1,4 +1,12 @@
 
-h2 {
+body {
+  background: #fa5858;
+}
+
+.content {
+  background: #fff;
+}
+
+h1 {
   color: red;
 }
